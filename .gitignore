@@ -6,6 +6,7 @@ file.txt
 issues.csv
 __pycache__/
 .idea/
+constants.py
 
 # User-specific files
 *.suo
